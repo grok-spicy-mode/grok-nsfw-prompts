@@ -100,27 +100,22 @@ This repository organizes **nsfw grok prompts** into specialized categories for 
 4. **Sensory Details**: Incorporate visual, auditory, and tactile elements
 5. **Pacing Control**: Use prompt length to control response depth
 
-## Online Tools
+## Free Online Tools
 
-### GrokPrompts.app - Your All-in-One Solution
+Try these AI-powered tools at [GrokPrompts.app](https://grokprompts.app) — no download required:
 
-Looking for more than just static prompts? [GrokPrompts.app](https://grokprompts.app) offers:
+| Tool | Description | Link |
+|------|-------------|------|
+| **Text to Image** | Generate AI images with Grok Spicy Mode | [Try Free →](https://grokprompts.app/spicy-image) |
+| **Text to Video** | Create AI videos from text prompts | [Try Free →](https://grokprompts.app/spicy-video) |
+| **Image to Image** | Style transfer & editing | [Try Free →](https://grokprompts.app/spicy-image-to-image) |
+| **Image to Video** | Animate your images with AI | [Try Free →](https://grokprompts.app/spicy-image-to-video) |
+| **Video to Video** | Transform video styles with AI | [Try Free →](https://grokprompts.app/spicy-video-to-video) |
+| **Prompt Library** | Browse 1000+ curated prompts | [Browse →](https://grokprompts.app/prompts) |
+| **Prompt Generator** | AI-powered prompt creation | [Generate →](https://grokprompts.app/grok-prompt-generator) |
+| **Spicy Prompts** | Uncensored spicy prompt collection | [Explore →](https://grokprompts.app/prompts/spicy) |
 
-- **AI-Powered Prompt Generator**: Create custom grok nsfw prompts instantly
-- **Image Generation**: Generate uncensored images with Grok Imagine
-- **Prompt Library**: Access thousands of pre-made prompts
-- **Community Templates**: Share and discover prompts from other users
-- **No Limits**: Unlimited generations without restrictions
-
-| Feature | This Repository | GrokPrompts.app |
-|---------|----------------|-----------------|
-| Static Prompts | ✅ | ✅ |
-| Custom Generation | ❌ | ✅ |
-| Image Creation | ❌ | ✅ |
-| Regular Updates | Manual | Automated |
-| Community Sharing | ❌ | ✅ |
-
-👉 **[Try GrokPrompts.app Free](https://grokprompts.app)** - No signup required!
+> All tools include **25 free credits** — no credit card required.
 
 ## Frequently Asked Questions
 
